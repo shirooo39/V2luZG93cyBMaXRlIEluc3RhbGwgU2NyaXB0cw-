@@ -15,12 +15,24 @@
 
 V2luZG93cyA3
 
-    clear && sudo su && wget -O "V2luZG93cyA3IExpdGU=.sh" "https://raw.githubusercontent.com/shirooo39/V2luZG93cyBMaXRlIEluc3RhbGwgU2NyaXB0cw-/main/V2luZG93cyA3IExpdGU%3D.sh" && chmod +x "V2luZG93cyA3IExpdGU=.sh" && ./"V2luZG93cyA3IExpdGU=.sh"
+    clear
+    sudo su
+    wget -O "V2luZG93cyA3IExpdGU=.sh" "https://raw.githubusercontent.com/shirooo39/V2luZG93cyBMaXRlIEluc3RhbGwgU2NyaXB0cw-/main/V2luZG93cyA3IExpdGU%3D.sh"
+    chmod +x "V2luZG93cyA3IExpdGU=.sh"
+    ./"V2luZG93cyA3IExpdGU=.sh"
 
 V2luZG93cyA4LjE
 
-    clear && sudo su && wget -O "V2luZG93cyA4LjEgTGl0ZQ==.sh" "https://raw.githubusercontent.com/shirooo39/V2luZG93cyBMaXRlIEluc3RhbGwgU2NyaXB0cw-/main/V2luZG93cyA4LjEgTGl0ZQ%3D%3D.sh" && chmod +x "V2luZG93cyA4LjEgTGl0ZQ==.sh" && ./"V2luZG93cyA4LjEgTGl0ZQ==.sh"
+    clear
+    sudo su
+    wget -O "V2luZG93cyA4LjEgTGl0ZQ==.sh" "https://raw.githubusercontent.com/shirooo39/V2luZG93cyBMaXRlIEluc3RhbGwgU2NyaXB0cw-/main/V2luZG93cyA4LjEgTGl0ZQ%3D%3D.sh"
+    chmod +x "V2luZG93cyA4LjEgTGl0ZQ==.sh"
+    && ./"V2luZG93cyA4LjEgTGl0ZQ==.sh"
 
 V2luZG93cyAxMQ
 
-    clear && sudo su && wget -O "V2luZG93cyAxMSBMaXRl.sh" "https://raw.githubusercontent.com/shirooo39/V2luZG93cyBMaXRlIEluc3RhbGwgU2NyaXB0cw-/main/V2luZG93cyAxMSBMaXRl.sh" && chmod +x "V2luZG93cyAxMSBMaXRl.sh" && ./"V2luZG93cyAxMSBMaXRl.sh"
+    clear
+    sudo su
+    wget -O "V2luZG93cyAxMSBMaXRl.sh" "https://raw.githubusercontent.com/shirooo39/V2luZG93cyBMaXRlIEluc3RhbGwgU2NyaXB0cw-/main/V2luZG93cyAxMSBMaXRl.sh"
+    chmod +x "V2luZG93cyAxMSBMaXRl.sh"
+    ./"V2luZG93cyAxMSBMaXRl.sh"
